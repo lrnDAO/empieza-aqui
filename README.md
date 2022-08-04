@@ -2,7 +2,7 @@
 Hola! Aquí encontrarás ligas a artículos en ESPAÑOL que te ayudarán a introducirte al tema de web3 comprendiendo los fundamentos.
 
 ### Parte 1: Conceptos básicos.
-#### [— Web3: El nuevo internet.](https://https://github.com/Token-Economy-Book/SpanishTranslation/wiki/Redes-Tokenizadas%3A-Web3%2C-la-red-con-estado)
+#### [— Web3: El nuevo internet.](https://github.com/Token-Economy-Book/SpanishTranslation/wiki/Redes-Tokenizadas%3A-Web3%2C-la-red-con-estado)
 
 #### [— Las nuevas monedas digitales y sus registros: Bitcoin y blockchain](https://github.com/Token-Economy-Book/SpanishTranslation/wiki/Mantenimiento-de-un-registro-de-Tokens%3A--Bitcoin%2C-Blockchain-y-otros-Registros-Distribuidos)
 
