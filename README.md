@@ -25,5 +25,5 @@ Hola! Aquí encontrarás ligas a artículos en ESPAÑOL que te ayudarán a intro
 
 
 ### Referencias
-[Libro - Economia del Token - Shermin Voshmgir
+[Libro Completo - Economia del Token - Shermin Voshmgir
 ](https://github.com/Token-Economy-Book/SpanishTranslation/wiki)
